@@ -1,10 +1,10 @@
 
 Building the library and test binary from Subversion repository:
 ----------------------------------------------------------------
-The Sourceforge Subversion repository is to be found here:
-svn co https://opengeopp.svn.sourceforge.net/svnroot/opengeopp/trunk/opengeopp opengeoppsvn
+The Sourceforge Git repository is to be found here:
+git clone git://opengeopp.git.sourceforge.net/gitroot/opengeopp/opengeopp opengeoppgit
 
-Then, you need the following packages (Fedora 11 names here, 
+Then, you need the following packages (Fedora 16 names here, 
 but names may vary according to distributions):
   * libtool, autoconf, automake
   * gettext-devel
@@ -17,7 +17,7 @@ but names may vary according to distributions):
 Building the library and test binary from the tarball:
 ------------------------------------------------------
 The latest stable source tarball (opengeopp*.tar.gz or .bz2) can be found here:
-http://sourceforge.net/project/showfiles.php?group_id=xxxxxx
+http://sourceforge.net/project/showfiles.php?group_id=265651
 
 Then, as usual, you can just type the following sequence:
 "./configure --prefix=/home/user/dev/deliveries/opengeopp-0.1.0 && make && make check && cd test && ./testLibsh"
