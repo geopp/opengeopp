@@ -1,0 +1,299 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: ../opengeopp/service/OPENGEOPP_ServiceContext.cpp:22
+#: ../opengeopp/service/OPENGEOPP_ServiceContext.cpp:23
+#: ../opengeopp/service/OPENGEOPP_ServiceContext.cpp:29
+#: ../opengeopp/service/OPENGEOPP_ServiceContext.cpp:30
+#: ../opengeopp/service/OPENGEOPP_ServiceContext.cpp:50
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:30
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:33
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:44
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:53
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:57
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:61
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:65
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:69
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:73
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:77
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:81
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:85
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:89
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:93
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:97
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:101
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-12 13:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../opengeopp/config/opengeopp-paths.hpp:3
+msgid "opengeopp"
+msgstr ""
+
+#: ../opengeopp/config/opengeopp-paths.hpp:4
+msgid "OPENGEOPP"
+msgstr ""
+
+#: ../opengeopp/config/opengeopp-paths.hpp:5
+msgid "0.1.0"
+msgstr ""
+
+#: ../opengeopp/config/opengeopp-paths.hpp:6
+msgid "/home/dan/dev/deliveries/opengeopp-0.1.0"
+msgstr ""
+
+#: ../opengeopp/config/opengeopp-paths.hpp:7
+msgid "/home/dan/dev/deliveries/opengeopp-0.1.0/bin"
+msgstr ""
+
+#: ../opengeopp/config/opengeopp-paths.hpp:8
+msgid "/home/dan/dev/deliveries/opengeopp-0.1.0/libexec"
+msgstr ""
+
+#: ../opengeopp/config/opengeopp-paths.hpp:9
+msgid "/home/dan/dev/deliveries/opengeopp-0.1.0/share"
+msgstr ""
+
+#: ../opengeopp/config/opengeopp-paths.hpp:10
+msgid "/home/dan/dev/deliveries/opengeopp-0.1.0/share/doc/opengeopp-0.1.0"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:19
+msgid "opengeopp.log"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:22
+msgid "nce rio de janeiro 22/10/2009"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:29
+msgid " "
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:41
+msgid "Generic options"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:43 ../opengeopp/batches/opengeopp.cpp:99
+msgid "prefix"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:43
+msgid "print installation prefix"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:44
+msgid "version,v"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:44
+msgid "print version string"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:45
+msgid "help,h"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:45
+msgid "produce help message"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:49
+msgid "Configuration"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:51
+msgid "search,s"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:53
+msgid "Search string"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:54
+msgid "log,l"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:56
+msgid "Filename for the logs"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:61
+msgid "Hidden options"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:63 ../opengeopp/batches/opengeopp.cpp:77
+msgid "copyright"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:65
+msgid "Show the copyright (license)"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:73
+msgid "Allowed options"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:84
+msgid "opengeopp.cfg"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:89
+msgid "help"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:94
+msgid "version"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:95
+msgid ", version "
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:100
+msgid "Installation prefix: "
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:104
+#: ../opengeopp/batches/opengeopp.cpp:105
+msgid "search"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:106
+msgid "Search string is: "
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:109
+#: ../opengeopp/batches/opengeopp.cpp:110
+msgid "log"
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:111
+msgid "Log filename is: "
+msgstr ""
+
+#: ../opengeopp/batches/opengeopp.cpp:154
+msgid "Standard exception: "
+msgstr ""
+
+#: ../opengeopp/service/Logger.hpp:56
+msgid ":"
+msgstr ""
+
+#: ../opengeopp/service/Logger.hpp:57
+msgid ": "
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:27
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:113
+msgid "code"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:30
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:114
+msgid "city_code"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:33
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:115
+msgid "state_code"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:34
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:117
+msgid "country_code"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:35
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:118
+msgid "region_code"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:36
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:119
+msgid "continent_code"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:37
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:120
+msgid "time_zone_grp"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:38
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:121
+msgid "longitude"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:39
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:122
+msgid "latitude"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:40
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:123
+msgid "xapian_docid"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:44
+msgid "language_code"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:53
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:57
+msgid "classical_name"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:61
+msgid "extended_name"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:65
+msgid "alternate_name1"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:69
+msgid "alternate_name2"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:73
+msgid "alternate_name3"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:77
+msgid "alternate_name4"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:81
+msgid "alternate_name5"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:85
+msgid "alternate_name6"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:89
+msgid "alternate_name7"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:93
+msgid "alternate_name8"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:97
+msgid "alternate_name9"
+msgstr ""
+
+#: ../opengeopp/dbadaptor/DbaPlace.cpp:101
+msgid "alternate_name10"
+msgstr ""
